@@ -1,0 +1,25 @@
+.text-heading{
+	margin-top: 15px;
+}
+
+.text-service{
+    color: #777;
+	font-size: 18px;
+	text-align: center;
+	align-items: center;
+	margin-left: 30%;
+	width: 45%;
+}
+
+.heading-facility{
+	margin-top: -80px;
+}
+
+.text-facility{
+    color: #777;
+	font-size: 18px;
+	text-align: center;
+	align-items: center;
+	margin-left: 30%;
+	width: 45%;
+}

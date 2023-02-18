@@ -1,0 +1,97 @@
+.login-div{
+    display: flex;
+    flex-direction: row;
+}
+
+.login{
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 40px 30px 40px;
+    margin-top: 5%;
+    margin-bottom: 3%;
+    width: 30%;
+    margin-left: 8%;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.login-txt{
+    margin-top: 10%;
+    width: 20%;
+    justify-content: center;
+    align-items: center;
+    margin-left: 18%;
+}
+
+.login-txt h1{
+    color: #fc4851;
+    font-size: 400%;
+    margin-bottom: 12%;
+}
+
+.login-txt h2{
+    text-align: center;
+}
+
+.login-txt h3{
+    color: #fc4851;
+   display: flex;
+   justify-content: center;
+   font-size: 290%;
+}
+
+.login h1{
+    color: #fc4851;
+    font-weight: bold;
+    margin-bottom: 3%;
+}
+
+.linklogin{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 10px;
+}
+
+.login .btn{
+    width: 99%;
+    font-size: 18px;
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: #fc4851;
+    text-decoration: none;
+}
+
+.link{
+    margin-left: 1%;
+    display: flex;
+    color: black;
+    text-decoration: none;
+}
+
+.link:hover{
+    color: #fc4851;
+}
+
+.login .btn:hover{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+    color: #fff;
+}
+
+.login input:hover{
+    border: 1px solid #fc4851;
+}
+
+.form-control{
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+.message{
+    color: red;
+    text-align: center;
+    font-family: sans-serif;
+}
